@@ -1,0 +1,43 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>Chest_Hunt_Simulator</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="crayy.ico" />
+    <None Remove="Images\closed_chest.PNG" />
+    <None Remove="Images\info.png" />
+    <None Remove="Images\mimic_chest.PNG" />
+    <None Remove="Images\opened_chest.PNG" />
+    <None Remove="Images\saver_chest.PNG" />
+    <None Remove="Images\x2_chest.PNG" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="LiveCharts" Version="0.9.7" />
+    <PackageReference Include="LiveCharts.Core" Version="0.9.8" />
+    <PackageReference Include="LiveCharts.Wpf" Version="0.9.7" />
+    <PackageReference Include="LiveCharts.Wpf.Core" Version="0.9.8" />
+    <PackageReference Include="LiveCharts.Wpf.NetCore3" Version="0.9.8" />
+    <PackageReference Include="OxyPlot.Core" Version="2.1.2" />
+    <PackageReference Include="OxyPlot.Wpf" Version="2.1.2" />
+    <PackageReference Include="PDFsharp" Version="6.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="crayy.ico" />
+    <Resource Include="Images\closed_chest.PNG" />
+    <Resource Include="Images\info.png" />
+    <Resource Include="Images\mimic_chest.PNG" />
+    <Resource Include="Images\opened_chest.PNG" />
+    <Resource Include="Images\saver_chest.PNG" />
+    <Resource Include="Images\x2_chest.PNG" />
+  </ItemGroup>
+
+</Project>

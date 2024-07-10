@@ -1,0 +1,46 @@
+C:\Users\crays\OneDrive\Desktop\VS projects\Chest Hunt Simulator\Chest Hunt Simulator\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\crays\OneDrive\Desktop\VS projects\Chest Hunt Simulator\Chest Hunt Simulator\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\crays\OneDrive\Desktop\VS projects\Chest Hunt Simulator\Chest Hunt Simulator\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\crays\OneDrive\Desktop\VS projects\Chest Hunt Simulator\Chest Hunt Simulator\obj\Debug\net8.0-windows\Chest Hunt Simulator_MarkupCompile.cache
+C:\Users\crays\OneDrive\Desktop\VS projects\Chest Hunt Simulator\Chest Hunt Simulator\obj\Debug\net8.0-windows\Chest Hunt Simulator.g.resources
+C:\Users\crays\OneDrive\Desktop\VS projects\Chest Hunt Simulator\Chest Hunt Simulator\obj\Debug\net8.0-windows\Chest Hunt Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crays\OneDrive\Desktop\VS projects\Chest Hunt Simulator\Chest Hunt Simulator\obj\Debug\net8.0-windows\Chest Hunt Simulator.AssemblyInfoInputs.cache
+C:\Users\crays\OneDrive\Desktop\VS projects\Chest Hunt Simulator\Chest Hunt Simulator\obj\Debug\net8.0-windows\Chest Hunt Simulator.AssemblyInfo.cs
+C:\Users\crays\OneDrive\Desktop\VS projects\Chest Hunt Simulator\Chest Hunt Simulator\obj\Debug\net8.0-windows\Chest Hunt Simulator.csproj.CoreCompileInputs.cache
+C:\Users\crays\OneDrive\Desktop\VS projects\Chest Hunt Simulator\Chest Hunt Simulator\bin\Debug\net8.0-windows\Chest Hunt Simulator.exe
+C:\Users\crays\OneDrive\Desktop\VS projects\Chest Hunt Simulator\Chest Hunt Simulator\bin\Debug\net8.0-windows\Chest Hunt Simulator.deps.json
+C:\Users\crays\OneDrive\Desktop\VS projects\Chest Hunt Simulator\Chest Hunt Simulator\bin\Debug\net8.0-windows\Chest Hunt Simulator.runtimeconfig.json
+C:\Users\crays\OneDrive\Desktop\VS projects\Chest Hunt Simulator\Chest Hunt Simulator\bin\Debug\net8.0-windows\Chest Hunt Simulator.dll
+C:\Users\crays\OneDrive\Desktop\VS projects\Chest Hunt Simulator\Chest Hunt Simulator\bin\Debug\net8.0-windows\Chest Hunt Simulator.pdb
+C:\Users\crays\OneDrive\Desktop\VS projects\Chest Hunt Simulator\Chest Hunt Simulator\obj\Debug\net8.0-windows\Chest Hunt Simulator.dll
+C:\Users\crays\OneDrive\Desktop\VS projects\Chest Hunt Simulator\Chest Hunt Simulator\obj\Debug\net8.0-windows\refint\Chest Hunt Simulator.dll
+C:\Users\crays\OneDrive\Desktop\VS projects\Chest Hunt Simulator\Chest Hunt Simulator\obj\Debug\net8.0-windows\Chest Hunt Simulator.pdb
+C:\Users\crays\OneDrive\Desktop\VS projects\Chest Hunt Simulator\Chest Hunt Simulator\obj\Debug\net8.0-windows\Chest Hunt Simulator.genruntimeconfig.cache
+C:\Users\crays\OneDrive\Desktop\VS projects\Chest Hunt Simulator\Chest Hunt Simulator\obj\Debug\net8.0-windows\ref\Chest Hunt Simulator.dll
+C:\Users\crays\OneDrive\Desktop\VS projects\Chest Hunt Simulator\Chest Hunt Simulator\obj\Debug\net8.0-windows\InstructionsWindow.baml
+C:\Users\crays\OneDrive\Desktop\VS projects\Chest Hunt Simulator\Chest Hunt Simulator\obj\Debug\net8.0-windows\InstructionsWindow.g.cs
+C:\Users\crays\OneDrive\Desktop\VS projects\Chest Hunt Simulator\Chest Hunt Simulator\obj\Debug\net8.0-windows\StatsWindow.baml
+C:\Users\crays\OneDrive\Desktop\VS projects\Chest Hunt Simulator\Chest Hunt Simulator\obj\Debug\net8.0-windows\StatsWindow.g.cs
+C:\Users\crays\OneDrive\Desktop\VS projects\Chest Hunt Simulator\Chest Hunt Simulator\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
+C:\Users\crays\OneDrive\Desktop\VS projects\Chest Hunt Simulator\Chest Hunt Simulator\bin\Debug\net8.0-windows\LiveCharts.dll
+C:\Users\crays\OneDrive\Desktop\VS projects\Chest Hunt Simulator\Chest Hunt Simulator\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\crays\OneDrive\Desktop\VS projects\Chest Hunt Simulator\Chest Hunt Simulator\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\crays\OneDrive\Desktop\VS projects\Chest Hunt Simulator\Chest Hunt Simulator\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\crays\OneDrive\Desktop\VS projects\Chest Hunt Simulator\Chest Hunt Simulator\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\crays\OneDrive\Desktop\VS projects\Chest Hunt Simulator\Chest Hunt Simulator\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\crays\OneDrive\Desktop\VS projects\Chest Hunt Simulator\Chest Hunt Simulator\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\crays\OneDrive\Desktop\VS projects\Chest Hunt Simulator\Chest Hunt Simulator\bin\Debug\net8.0-windows\OxyPlot.dll
+C:\Users\crays\OneDrive\Desktop\VS projects\Chest Hunt Simulator\Chest Hunt Simulator\bin\Debug\net8.0-windows\OxyPlot.Wpf.dll
+C:\Users\crays\OneDrive\Desktop\VS projects\Chest Hunt Simulator\Chest Hunt Simulator\bin\Debug\net8.0-windows\OxyPlot.Wpf.Shared.dll
+C:\Users\crays\OneDrive\Desktop\VS projects\Chest Hunt Simulator\Chest Hunt Simulator\bin\Debug\net8.0-windows\PdfSharp.Charting.dll
+C:\Users\crays\OneDrive\Desktop\VS projects\Chest Hunt Simulator\Chest Hunt Simulator\bin\Debug\net8.0-windows\PdfSharp.Quality.dll
+C:\Users\crays\OneDrive\Desktop\VS projects\Chest Hunt Simulator\Chest Hunt Simulator\bin\Debug\net8.0-windows\PdfSharp.Snippets.dll
+C:\Users\crays\OneDrive\Desktop\VS projects\Chest Hunt Simulator\Chest Hunt Simulator\bin\Debug\net8.0-windows\PdfSharp.System.dll
+C:\Users\crays\OneDrive\Desktop\VS projects\Chest Hunt Simulator\Chest Hunt Simulator\bin\Debug\net8.0-windows\PdfSharp.WPFonts.dll
+C:\Users\crays\OneDrive\Desktop\VS projects\Chest Hunt Simulator\Chest Hunt Simulator\bin\Debug\net8.0-windows\PdfSharp.dll
+C:\Users\crays\OneDrive\Desktop\VS projects\Chest Hunt Simulator\Chest Hunt Simulator\bin\Debug\net8.0-windows\de\PdfSharp.Charting.resources.dll
+C:\Users\crays\OneDrive\Desktop\VS projects\Chest Hunt Simulator\Chest Hunt Simulator\bin\Debug\net8.0-windows\de\PdfSharp.resources.dll
+C:\Users\crays\OneDrive\Desktop\VS projects\Chest Hunt Simulator\Chest Hunt Simulator\obj\Debug\net8.0-windows\Chest Hunt Simulator.csproj.AssemblyReference.cache
+C:\Users\crays\OneDrive\Desktop\VS projects\Chest Hunt Simulator\Chest Hunt Simulator\obj\Debug\net8.0-windows\GraphWindow.baml
+C:\Users\crays\OneDrive\Desktop\VS projects\Chest Hunt Simulator\Chest Hunt Simulator\obj\Debug\net8.0-windows\GraphWindow.g.cs
+C:\Users\crays\OneDrive\Desktop\VS projects\Chest Hunt Simulator\Chest Hunt Simulator\obj\Debug\net8.0-windows\Chest Hu.E65A8C29.Up2Date

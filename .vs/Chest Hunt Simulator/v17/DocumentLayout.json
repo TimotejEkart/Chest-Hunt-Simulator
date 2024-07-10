@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chest Hunt Simulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{238A92D2-EC68-4C49-82F4-8F1B6080A749}|Chest Hunt Simulator\\Chest Hunt Simulator.csproj|C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chest Hunt Simulator\\chest hunt simulator\\simulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{238A92D2-EC68-4C49-82F4-8F1B6080A749}|Chest Hunt Simulator\\Chest Hunt Simulator.csproj|solutionrelative:chest hunt simulator\\simulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238A92D2-EC68-4C49-82F4-8F1B6080A749}|Chest Hunt Simulator\\Chest Hunt Simulator.csproj|C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chest Hunt Simulator\\chest hunt simulator\\statswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{238A92D2-EC68-4C49-82F4-8F1B6080A749}|Chest Hunt Simulator\\Chest Hunt Simulator.csproj|solutionrelative:chest hunt simulator\\statswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238A92D2-EC68-4C49-82F4-8F1B6080A749}|Chest Hunt Simulator\\Chest Hunt Simulator.csproj|C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chest Hunt Simulator\\chest hunt simulator\\statswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{238A92D2-EC68-4C49-82F4-8F1B6080A749}|Chest Hunt Simulator\\Chest Hunt Simulator.csproj|solutionrelative:chest hunt simulator\\statswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238A92D2-EC68-4C49-82F4-8F1B6080A749}|Chest Hunt Simulator\\Chest Hunt Simulator.csproj|C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chest Hunt Simulator\\chest hunt simulator\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{238A92D2-EC68-4C49-82F4-8F1B6080A749}|Chest Hunt Simulator\\Chest Hunt Simulator.csproj|solutionrelative:chest hunt simulator\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238A92D2-EC68-4C49-82F4-8F1B6080A749}|Chest Hunt Simulator\\Chest Hunt Simulator.csproj|C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chest Hunt Simulator\\chest hunt simulator\\graphwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{238A92D2-EC68-4C49-82F4-8F1B6080A749}|Chest Hunt Simulator\\Chest Hunt Simulator.csproj|solutionrelative:chest hunt simulator\\graphwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238A92D2-EC68-4C49-82F4-8F1B6080A749}|Chest Hunt Simulator\\Chest Hunt Simulator.csproj|C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chest Hunt Simulator\\chest hunt simulator\\graphwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{238A92D2-EC68-4C49-82F4-8F1B6080A749}|Chest Hunt Simulator\\Chest Hunt Simulator.csproj|solutionrelative:chest hunt simulator\\graphwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238A92D2-EC68-4C49-82F4-8F1B6080A749}|Chest Hunt Simulator\\Chest Hunt Simulator.csproj|C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chest Hunt Simulator\\chest hunt simulator\\instructionswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{238A92D2-EC68-4C49-82F4-8F1B6080A749}|Chest Hunt Simulator\\Chest Hunt Simulator.csproj|solutionrelative:chest hunt simulator\\instructionswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238A92D2-EC68-4C49-82F4-8F1B6080A749}|Chest Hunt Simulator\\Chest Hunt Simulator.csproj|C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chest Hunt Simulator\\chest hunt simulator\\instructionswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{238A92D2-EC68-4C49-82F4-8F1B6080A749}|Chest Hunt Simulator\\Chest Hunt Simulator.csproj|solutionrelative:chest hunt simulator\\instructionswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238A92D2-EC68-4C49-82F4-8F1B6080A749}|Chest Hunt Simulator\\Chest Hunt Simulator.csproj|C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chest Hunt Simulator\\chest hunt simulator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{238A92D2-EC68-4C49-82F4-8F1B6080A749}|Chest Hunt Simulator\\Chest Hunt Simulator.csproj|solutionrelative:chest hunt simulator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238A92D2-EC68-4C49-82F4-8F1B6080A749}|Chest Hunt Simulator\\Chest Hunt Simulator.csproj|c:\\users\\crays\\onedrive\\desktop\\vs projects\\chest hunt simulator\\chest hunt simulator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{238A92D2-EC68-4C49-82F4-8F1B6080A749}|Chest Hunt Simulator\\Chest Hunt Simulator.csproj|solutionrelative:chest hunt simulator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238A92D2-EC68-4C49-82F4-8F1B6080A749}|Chest Hunt Simulator\\Chest Hunt Simulator.csproj|C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chest Hunt Simulator\\chest hunt simulator\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{238A92D2-EC68-4C49-82F4-8F1B6080A749}|Chest Hunt Simulator\\Chest Hunt Simulator.csproj|solutionrelative:chest hunt simulator\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238A92D2-EC68-4C49-82F4-8F1B6080A749}|Chest Hunt Simulator\\Chest Hunt Simulator.csproj|C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chest Hunt Simulator\\chest hunt simulator\\crayy.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{238A92D2-EC68-4C49-82F4-8F1B6080A749}|Chest Hunt Simulator\\Chest Hunt Simulator.csproj|solutionrelative:chest hunt simulator\\crayy.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GraphWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chest Hunt Simulator\\Chest Hunt Simulator\\GraphWindow.xaml",
+              "RelativeDocumentMoniker": "Chest Hunt Simulator\\GraphWindow.xaml",
+              "ToolTip": "C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chest Hunt Simulator\\Chest Hunt Simulator\\GraphWindow.xaml",
+              "RelativeToolTip": "Chest Hunt Simulator\\GraphWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-09T10:47:53.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InstructionsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chest Hunt Simulator\\Chest Hunt Simulator\\InstructionsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Chest Hunt Simulator\\InstructionsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chest Hunt Simulator\\Chest Hunt Simulator\\InstructionsWindow.xaml.cs",
+              "RelativeToolTip": "Chest Hunt Simulator\\InstructionsWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:47:07.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InstructionsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chest Hunt Simulator\\Chest Hunt Simulator\\InstructionsWindow.xaml",
+              "RelativeDocumentMoniker": "Chest Hunt Simulator\\InstructionsWindow.xaml",
+              "ToolTip": "C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chest Hunt Simulator\\Chest Hunt Simulator\\InstructionsWindow.xaml",
+              "RelativeToolTip": "Chest Hunt Simulator\\InstructionsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-09T10:47:07.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GraphWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chest Hunt Simulator\\Chest Hunt Simulator\\GraphWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Chest Hunt Simulator\\GraphWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chest Hunt Simulator\\Chest Hunt Simulator\\GraphWindow.xaml.cs",
+              "RelativeToolTip": "Chest Hunt Simulator\\GraphWindow.xaml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:47:56.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chest Hunt Simulator\\Chest Hunt Simulator\\GameManager.cs",
+              "RelativeDocumentMoniker": "Chest Hunt Simulator\\GameManager.cs",
+              "ToolTip": "C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chest Hunt Simulator\\Chest Hunt Simulator\\GameManager.cs",
+              "RelativeToolTip": "Chest Hunt Simulator\\GameManager.cs",
+              "ViewState": "AQIAAMAAAAAAAAAAAAAAwMoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:48:03.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Simulation.cs",
+              "DocumentMoniker": "C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chest Hunt Simulator\\Chest Hunt Simulator\\Simulation.cs",
+              "RelativeDocumentMoniker": "Chest Hunt Simulator\\Simulation.cs",
+              "ToolTip": "C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chest Hunt Simulator\\Chest Hunt Simulator\\Simulation.cs",
+              "RelativeToolTip": "Chest Hunt Simulator\\Simulation.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAwEMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:50:06.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StatsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chest Hunt Simulator\\Chest Hunt Simulator\\StatsWindow.xaml",
+              "RelativeDocumentMoniker": "Chest Hunt Simulator\\StatsWindow.xaml",
+              "ToolTip": "C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chest Hunt Simulator\\Chest Hunt Simulator\\StatsWindow.xaml",
+              "RelativeToolTip": "Chest Hunt Simulator\\StatsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-09T10:50:50.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StatsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chest Hunt Simulator\\Chest Hunt Simulator\\StatsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Chest Hunt Simulator\\StatsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chest Hunt Simulator\\Chest Hunt Simulator\\StatsWindow.xaml.cs",
+              "RelativeToolTip": "Chest Hunt Simulator\\StatsWindow.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowDgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:50:54.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chest Hunt Simulator\\Chest Hunt Simulator\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Chest Hunt Simulator\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chest Hunt Simulator\\Chest Hunt Simulator\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Chest Hunt Simulator\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAN0AAAAAAAAAAAAAAOIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T10:06:04.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chest Hunt Simulator\\Chest Hunt Simulator\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Chest Hunt Simulator\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chest Hunt Simulator\\Chest Hunt Simulator\\MainWindow.xaml",
+              "RelativeToolTip": "Chest Hunt Simulator\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-09T10:46:30.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "crayy.ico - Icon [256x256, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chest Hunt Simulator\\Chest Hunt Simulator\\crayy.ico",
+              "RelativeDocumentMoniker": "Chest Hunt Simulator\\crayy.ico",
+              "ToolTip": "C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chest Hunt Simulator\\Chest Hunt Simulator\\crayy.ico - Icon [256x256, 32 bit, PNG]",
+              "RelativeToolTip": "Chest Hunt Simulator\\crayy.ico - Icon [256x256, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-07-09T11:27:02.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chest Hunt Simulator\\Chest Hunt Simulator\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Chest Hunt Simulator\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chest Hunt Simulator\\Chest Hunt Simulator\\AssemblyInfo.cs",
+              "RelativeToolTip": "Chest Hunt Simulator\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:27:03.252Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
